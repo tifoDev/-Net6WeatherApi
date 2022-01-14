@@ -1,2 +1,2 @@
-# -Net6WeatherApi
+# Net6WeatherApi
 Basic net6 api for docker image
